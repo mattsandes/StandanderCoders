@@ -1,0 +1,16 @@
+O que são redes
+
+- é a conexão entre dois ou mais dispositivos atraves de cabos ou atraves de ondas de radio frequencias
+
+Origem das redes de computadores:
+
+	- durante a guerra fria, a Darpa (departamento de defesa dos EUA) começaram a construir um sistem
+	  a que permitisse conectar as bases militares. Porem, essa ideia viria a se espalhar pelo pais 
+	  sendo definido como o principio da internet.
+
+	- esse padrão foi compartilhado entre outras nações alem dos Estudos Unidos porem, a forma em que
+	   os paises começaram a usar o que era conhecido como o Arpanet, não causavam conflitos o que 
+	  impedia a comunicação, por conta disso, foi se pensado em um protocolo que permitisse a conexão 	   entre essas nações evitando problemas de comunicação entre elas;
+
+	- com o passar do tempo, o projeto Darpanet deixou de ser o projeto militar-academico e passou a 
+	  ser o projeto empresarial  e com isso, foi criado padrões de comunicação entre os componentes, 	   conhecida como a internet das coias;
