@@ -5,4 +5,15 @@ O que é o git
 - Boa parte das alterações que o git faz, são locais e instantaneas;
 ---------------------------------------------------------------------------------------------------------
 
-Adicionando outras coisas nesse arquivo pra ver o git registrando as moducifações.
+Adicionando outras coisas nesse arquivo pra ver o git registrando as moducifações
+
+---------------------------------------------------------------------------------------------------------
+
+Mais algumas modificações
+
+--------------------------------------------------------------------------------------------------------
+
+Dicas de comandos bacanudos:
+
+git diff --staged - ve o que foi modificados nos arquivos que estão na area de staged;
+
