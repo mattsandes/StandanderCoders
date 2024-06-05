@@ -17,3 +17,8 @@ Dicas de comandos bacanudos:
 
 git diff --staged - ve o que foi modificados nos arquivos que estão na area de staged;
 
+git restore <nome-do-arquivo.txt> - uma forma de desfazer as mudanças que foram feitas nos arquivos;
+
+git restore --staged <nome-do-arquivo.txt> - remove o arquivo da area de staging;
+
+---------------------------------------------------------------------------------------------------------
