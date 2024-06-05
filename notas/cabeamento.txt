@@ -1,0 +1,31 @@
+O que é cabeamento
+
+- são padroes que definem como serão as organizações dos cabos e seus perifericos possibilitando melhor origanização e performance na rede.
+
+Normas:
+	- NBR 14.565
+	- ANSI/TIA 568
+	- ANSI/TIA 569
+
+- determinam quais devem ser os cabos, suas organizações, sua latencia permitida e sua performance.
+
+Tipos de cabos:
+
+	- Par trançado:
+		- UTP e STP;
+		- os cabos utp nãos são isolados o que pode ocasionar ruido e interferencia
+		- ja os stp, são isolados corrigindo os defeitos que os utp tem;
+	
+	- Cabo Coaxial:
+		- contem fios de cobres isolados e com um fio central responsavel por conduzir o pulso
+		  eletrico
+		- muito usado na conexão com o modem
+
+	- Firba Optcia:
+		- é composto por pequenos fragmentos de vidro permitindo que o sinal viagem de maneira 
+		  mais rapida
+
+Outros equipamentos:
+
+	- Rack:
+		- é um pequeno armmario onde esses perifericos ficam armazenados;
