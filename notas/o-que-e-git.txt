@@ -22,3 +22,19 @@ git restore <nome-do-arquivo.txt> - uma forma de desfazer as mudanças que foram
 git restore --staged <nome-do-arquivo.txt> - remove o arquivo da area de staging;
 
 ---------------------------------------------------------------------------------------------------------
+Cuidados quando for fazer pulls com git:
+
+Usar o comando git fetch para autalizar o repositorio local sem alterar o estado das branchs na maquina:
+
+git fetch <origin/branch>
+
+Logo apos isso usar o comando:
+
+git diff origin/branch
+
+- usando esse comando, ele vai listar o que esta faltando ou que vai ser atualizado nos arquivos
+
+Depois disso, podemos fazer o pull:
+
+git pull origin <sua-branch>
+--------------------------------------------------------------------------------------------------------
