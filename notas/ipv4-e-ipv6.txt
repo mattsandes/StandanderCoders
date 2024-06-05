@@ -1,0 +1,26 @@
+IPV4 e IPV6
+
+IPV4
+
+	- foi criado no incio do projeto da Darpanet;
+	- é o protocolo responsavel por endereçamento de pacotes na internet;
+
+Problemas com o IPV4:
+	- quando foi criado, tinha-se a estimativa que esse protocolo podia receber ate 4.000.000.000, 		 de conexoes o que a muito tempo ocorreu de maneira tal, que hoje quase não mais endereços 
+	  ipv4 para serem utilizados;
+	
+	- para que seja possivel, croiu-se o nat:
+		- nat - uma forma de usar endereços ipv4 sem exceder as comunicações do ipv4;
+
+	- uma forma de incluir dentro de um unico endereço, diferentes dispositivos;
+
+Bits e Bytes:
+	- bit - um pulso eletrico e que funciona de maneira binaria ou seja:
+		- 1 = ligado, ou um pulso de energia;
+		- 0 - desligado, ou sem pulso de energia;
+
+	byte: 
+		- conjunto de bits;
+		- sendo necessario 8 bits para se formar um byte;
+		- um byte pode, por conta desse conjunto, ele pode ser compreendido como um caractere 
+		  que pode ser exibido na tela das aplicações;
