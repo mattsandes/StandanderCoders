@@ -1,0 +1,20 @@
+Infraestrutura de redes e principais equipamentos
+
+- essa conexão ocorre atraves de hardwares
+
+Equipamentos:
+
+	- NIC (Network Interface Card, ou , placa de rede) - responsavel pelo conexão do dispositivo com 
+	  o cabo ethernet ou pela receber os sinais vindos do retoador permitindo que o aparelho se 
+	  conecte na internet;
+
+	- Hub - não mais usado, ele tinha como ideia ser um centralizador de conexões. Essa conexão 
+	  ocorria atraves de cabos que eram inseridos ele e conectava os dois dispositos dessa maneira.
+
+	- Switch - sucessor do Hub, tambem conecta dois dispositivos conectados a ele com a diferença de 
+	  que os dados são enviados apenas para os dispositivos endereçados dieferente do hub que, 
+	  qualquer dispositivo conectado a ele, tera acesso aos dados que estarão disponiveis.
+
+	- Roteador - tem a função de procurar as melhores rotas para a transmição de dados pela internet;
+	
+	- Modem - responsavel pela modulação e demodulação do sinal de internet;
