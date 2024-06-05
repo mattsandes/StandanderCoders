@@ -3,3 +3,6 @@ O que é o git
 - é uma ferramenta de versionamento de coidgo que guarda os registros de versão como snapshots. Ele não so salva a mudança, mas tambem gera um referencia para o que foi alterado propercionando a recuperação paraquela versão;
 
 - Boa parte das alterações que o git faz, são locais e instantaneas;
+---------------------------------------------------------------------------------------------------------
+
+Adicionando outras coisas nesse arquivo pra ver o git registrando as moducifações.
