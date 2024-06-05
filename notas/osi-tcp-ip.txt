@@ -1,0 +1,80 @@
+Modelo OSI e TCP/IP
+
+Modelo OSI:
+
+	- é um protocolo organizada por camadas são elas:
+		1. Aplicação
+		2. Apresentação
+		3. Sessão
+		4. Transporte
+		5. Rede
+		6. Enlace
+		7. Fisica
+
+	- quando uma requisição acontece, do lado do cliente, ela ocorre de cima para baixo, enquanto do 
+	  lado do servidor, ela ocorre de baixo para cima;
+
+	- Entendendo as camadas:
+		- camada de aplicação:
+			- é a camada que esta proxima do usuario (browser);
+			- protocolo SSH - é o portocolo que permite que o browser se comunique com o 
+			  servidor de maneira segura;
+
+		- camada de apresentação:
+			- responsavel pela parte de criptografia dos dados para enviar para a camada de 
+			  aplicação como pela parte de decriptogração dos dados vindos da camada de 
+			  aplicação;
+	
+		- camada de sessão:
+			- responsavel por criar uma periodo de tempo em que a comunicação entre cliente e 			   servidor irao se comunicar;
+
+		- camada de transporte:
+			- responsavel por estabelecer as conexões com o destino final da requisição;
+			- essa camada utiliza dos protocolos para isso:
+				- TCP;
+					- nesse protocolo, alem de enviar os dados, ele tambem vai 
+					  validar se o dados foi recebido pelo destino final;
+				- UDP;
+					- mesma forma do tcp, com a diferença que não havera verificação 					   de chegada no destino final;
+
+				- não ha certo e errado, mas apenas uma analise sobre o que melhor 
+				  servira a aplicação;
+
+		- camada de rede:
+			- a informação chega na camada de rede, ele se torna um pacote que sera enviado 
+			  para outro roteador;
+
+		- camada de enlace:
+			- responsavel por desempacotar o pacote enviado pelo roteador e mandar esse 
+			  pacote para o destino final atravez do endereço MAC;
+
+		- camada fisica:
+			- camada composta pelo roteador e cabos;
+---------------------------------------------------------------------------------------------------------
+
+Modelo TCP/IP
+
+Muito parecido com o modelo OSI porem com menos camadas, apenas 4;
+
+Porque TCP/IP?
+	- por se tratar da junção de dois protocolos o tcp, que gerencia o envio de dados atraves da 
+	  internet o  protocolo ip que gerencia os endereços de maquiinas na internet;
+
+As camadas do modelo TCP/IP:
+	1. Aplicação
+	2. Transporte
+	3. Internet
+	4. Acesso a Rede
+
+Explicando as camadas:
+	- camada de aplicação:
+		- tem as mesmas camadas do modelo OSI resumidas denntro dela;
+	
+	- camada de transporte;
+		- mesma coisa do OSI
+
+	- camda de internet:
+		- é a camada de rede do osi
+
+	- camada de acesso a rede:
+		- são as camadas de enlace e fisica resumidas numa so;
