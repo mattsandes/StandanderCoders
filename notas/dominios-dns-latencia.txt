@@ -1,0 +1,25 @@
+Dominios, DNS e latencia
+
+DNS
+
+- significa "Domain Name System";
+- tornar endereços ip legiveis para humanos;
+
+Como ele funciona:
+	- o dns é dividido em varios servidores, um deles sendo chamados de servidores raizes que 
+	  passam a requisiçao para os servidores subordinados;
+
+	- a ideia, é que esse servidor vai passando para os servidores subordinados quando a requisição 	 não consegue encontrar o pacote alvo;
+
+	- TLD (Top Level Domains):
+		- é para onde as quisiçoes são enviadas antes de irem para os subdominios;
+
+Dominios e subdominios:
+
+	- subdominios são subdivisões do dominio principal de um site;
+	- dominio é o nome que indentificam um site na internet;
+
+Latencia:
+
+	- é o tempo que leva ate a minha requisição ser atendida;
+	- quanto menos latencia, melhor sendo seu inverso verdadeiro;
