@@ -1,0 +1,16 @@
+======================
+| Comando para redes |
+======================
+
+- ifconfig - mostrar as configurações de ip;
+- sudo resolvectl flush-caches - comando que limpa o cache do dns localmente;
+- ping <endereço> - serve para saber se o destino esta respondendo ao pacotes que estão sendo enviados;- ns lookup <endereço> - serve para validar se de fato o endereço que estamos enviando é um endereço 
+  dns
+	- podendo ser usado no linux os comandos:
+		- dig;
+		- host;
+- traceroute <endereço> - usado para saber a quantos roteadores o meu package se conectou para atender 
+	                  a requisição; 
+
+- ip route - comando usado para mostrar a tabela de roteamento do compoutador;
+- netstat - retorna as conexões e portas que estao sendo usadas no compoutador;
